@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "kicad_blackpill")(type "KiCad")(uri "${KIPRJMOD}/kicad_blackpill")(options "")(descr ""))
+  (lib (name "voidswitch")(type "KiCad")(uri "${KIPRJMOD}/void_switch_kicad/footprints")(options "")(descr ""))
+)
